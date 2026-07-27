@@ -12,20 +12,6 @@ Portfolio personal, construido con [Astro](https://astro.build) y Tailwind CSS. 
 - **Gestor de paquetes:** pnpm
 - **Despliegue:** GitHub Pages vía GitHub Actions
 
-## Desarrollo local
-
-Requisitos: Node.js 22+, pnpm.
-
-```bash
-pnpm install
-pnpm dev
-```
-
-```bash
-pnpm build
-pnpm preview
-```
-
 ## Licencia
 
 © 2026 Pablo Jurado Leal. Todos los derechos reservados.
